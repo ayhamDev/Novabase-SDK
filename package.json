@@ -1,6 +1,6 @@
 {
   "name": "novabase-sdk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This is The Official SDK For Novabase.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

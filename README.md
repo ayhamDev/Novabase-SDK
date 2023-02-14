@@ -27,7 +27,7 @@
 
 ### npm page
 
-[Link To Npm](https://github.com/ayhamDev/Novabase-SDK/issues).
+[Link To Npm](https://www.npmjs.com/package/novabase-sdk).
 
 ## 🤝 Contributing
 
