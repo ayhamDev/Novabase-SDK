@@ -25,7 +25,7 @@
   </p>
 <p align="center">Did you like the project? Please, considerate <a href="https://www.buymeacoffee.com/ayhamDev">a donation</a> to help improve!</p>
 
-<p align="center"><strong>TypeScript NPM Module Boilerplate</strong>✨</p>
+<p align="center"><strong>The Official SDK For Novabase.</strong>✨</p>
 
 [![codecov](https://codecov.io/gh/ayhamDev/novabase-sdk/branch/main/graph/badge.svg?token=Q9fr548J0D)](https://codecov.io/gh/ayhamDev/novabase-sdk)
 
