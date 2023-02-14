@@ -23,7 +23,7 @@
   <a href="https://github.com/ayhamDev/novabase-sdk/issues/new/choose">Report Bug</a>
   <a href="https://github.com/ayhamDev/novabase-sdk/issues/new/choose">Request Feature</a>
   </p>
-<p align="center">Did you like the project? Please, considerate <a href="https://www.buymeacoffee.com/ayhamDev">a donation</a> to help improve!</p>
+<p align="center">Did you like the project? Considerate Give it a Start to help improve!</p>
 
 <p align="center"><strong>The Official SDK For Novabase.</strong>✨</p>
 
@@ -39,7 +39,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/ayhamDev/Novabase-SDK/issues).
 
 <!-- ## Show your support -->
 
@@ -55,4 +55,4 @@ Or buy me a coffee 🙌🏾
 
 <!-- Copyright © 2022 [Hebert F Barros](https://github.com/ayhamDev).<br /> -->
 
-This project is [MIT](LICENSE) licensed.
+This project is [MIT](https://github.com/ayhamDev/Novabase-SDK/blob/main/LICENSE.md) licensed.
