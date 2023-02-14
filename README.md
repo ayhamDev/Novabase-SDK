@@ -17,8 +17,6 @@
 
 <p align="center"><strong>The Official SDK For Novabase.</strong>✨</p>
 
-[![codecov](https://codecov.io/gh/ayhamDev/novabase-sdk/branch/main/graph/badge.svg?token=Q9fr548J0D)](https://codecov.io/gh/ayhamDev/novabase-sdk)
-
 # Getting started
 
 ## Installation
@@ -26,6 +24,10 @@
 ```bash
  npm i novabase-sdk
 ```
+
+### npm page
+
+[Link To Npm](https://github.com/ayhamDev/Novabase-SDK/issues).
 
 ## 🤝 Contributing
 
