@@ -1,7 +1,7 @@
 {
   "name": "novabase-sdk",
-  "version": "0.2.1",
-  "description": "TypeScript NPM Module Boilerplate",
+  "version": "0.0.2",
+  "description": "This is The Official SDK For Novabase.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -21,8 +21,9 @@
     "url": "git+https://github.com/ayhamDev/novabase-sdk.git"
   },
   "keywords": [
-    "boilerplate",
-    "typescript"
+    "typescript",
+    "sdk",
+    "novabase"
   ],
   "author": "Ayham",
   "license": "MIT",
