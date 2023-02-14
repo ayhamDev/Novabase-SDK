@@ -33,23 +33,9 @@
 
 ## Installation
 
-> Clone this repository: `git clone https://github.com/ayhamDev/novabase-sdk`
-
-### Open the directory and run the script line:
-
 ```bash
-cd novabase-sdk
+ npm i novabase-sdk
 ```
-
-```bash
-npm i  # or yarn
-```
-
-```bash
-rm -rf .git && git init && git add . && git commit -m "Initial commit" #Optional
-```
-
-Or create use the button "Use this template"
 
 ## 🤝 Contributing
 
